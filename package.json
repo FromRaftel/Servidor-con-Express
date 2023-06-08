@@ -1,13 +1,13 @@
 {
-  "name": "entregable",
+  "name": "servidor-c-express",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "API para consultar productos",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lucas J Vargas",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
