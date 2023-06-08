@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Producto 1",
+    "price": 500
+  },
+  {
+    "id": "2",
+    "name": "Producto 2",
+    "price": 899.99
+  },
+  {
+    "id": "3",
+    "name": "Producto 3",
+    "price": 320
+  },
+  {
+    "id": "4",
+    "name": "Producto 4",
+    "price": 1499.5
+  },
+  {
+    "id": "5",
+    "name": "Producto 5",
+    "price": 799.75
+  },
+  {
+    "id": "6",
+    "name": "Producto 6",
+    "price": 1999.99
+  },
+  {
+    "id": "7",
+    "name": "Producto 7",
+    "price": 699
+  },
+  {
+    "id": "8",
+    "name": "Producto 8",
+    "price": 599.9
+  },
+  {
+    "id": "9",
+    "name": "Producto 9",
+    "price": 1299
+  },
+  {
+    "id": "10",
+    "name": "Producto 10",
+    "price": 899
+  }
+]
